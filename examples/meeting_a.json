@@ -1,0 +1,17 @@
+{
+  "last_updated": "2026-03-28",
+  "use_for_refresh": true,
+  "instructions": [
+    "Refresh pipeline daily from CRM exports",
+    "Mark enterprise opportunities as critical"
+  ],
+  "requirements": [
+    "Must provide next-quarter revenue confidence band",
+    "High priority segmentation by customer tier"
+  ],
+  "questions": [
+    "What assumptions changed since the last forecast?",
+    "Which enterprise deals are at risk?",
+    "What assumptions changed since the last forecast?"
+  ]
+}
